@@ -48,13 +48,13 @@
 
 <p>&emsp;&emsp;Hi，AnnaChun，Wuhan University Student。武汉大学艰难求生的特软er一枚。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
 
 <tr><td>
-
+<div align="center">
+  <img src="https://metrics.lecoq.io/AnnaXChun?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
+</div>
 
 </td></tr>
 
