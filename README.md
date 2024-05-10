@@ -16,6 +16,10 @@
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
+  <div align="center">
+    <img src="https://metrics.lecoq.io/AnnaXChun?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
+  </div>
+  
 
   <!-- profile logo 个人资料徽标 -->
   <div>
