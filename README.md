@@ -2,9 +2,9 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74FB0&random=false&width=435&lines=Anna+Chun++A+Student+In+Wuhan;Everyday+Wants+To+COCO+and+Jump+Jump;Like+OW2)](https://git.io/typing-svg)
-    </a>
+   <a href="https://github.com/AnnaXChun/AnnaXChun">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74FB0&random=false&width=435&lines=Anna+Chun++A+Student+In+Wuhan;Everyday+Wants+To+COCO+and+Jump+Jump;Like+OW2" alt="Typing SVG" />
+   </a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
